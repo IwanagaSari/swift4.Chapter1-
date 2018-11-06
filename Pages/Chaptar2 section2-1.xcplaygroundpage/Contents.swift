@@ -28,13 +28,13 @@ var msg2 /* 途中のこコメント */ = "おやすみなさい"
 
 /* 複数行コメント
  
-*/
+ */
 
 /*コメントのネスティング
  /*
-    print(msg2)
+ print(msg2)
  */
-*/
+ */
 
 //p.43
 let theName = "太郎"
@@ -58,9 +58,3 @@ print(msg5, msg6, msg7, separator: "/")
 print("blue", "green", separator:"+", terminator:"、")
 print("yellow", terminator:"、")
 print("red")
-
-
-
-
-
-
