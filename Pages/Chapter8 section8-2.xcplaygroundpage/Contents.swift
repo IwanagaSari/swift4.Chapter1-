@@ -5,3 +5,5 @@ import Foundation
 var str = "Hello, playground"
 
 //: [Next](@next)
+
+//Section8のprojectfileに記載しています。
